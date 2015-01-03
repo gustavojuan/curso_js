@@ -9,4 +9,8 @@ function noGlobal(a){
     return a*b;
 }
 
+//noGlobal(1) --> 6
+// a = 5
+// b = 10
+
 
